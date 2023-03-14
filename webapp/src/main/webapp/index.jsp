@@ -1,4 +1,10 @@
-
+html>
+ <head>
+ </head>
+ <body>
+   <h1>Hello server 1<h1>
+ </body>
+</html>
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
