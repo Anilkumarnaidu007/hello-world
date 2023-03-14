@@ -2,7 +2,7 @@ html>
  <head>
  </head>
  <body>
-   <h1>Hello server 1<h1>
+   <h1>Hello server 2<h1>
  </body>
 </html>
 
